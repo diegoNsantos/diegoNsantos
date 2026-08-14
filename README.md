@@ -1,16 +1,21 @@
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 
+## 👋 Hi, I'm Diego Santos
 
-<!--
-**diegoNsantos/diegoNsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 Brazilian Data Science & AI Student
 
-Here are some ideas to get you started:
+🎓 Learning Data Science, Artificial Intelligence, and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Main Technologies:**
+- Python 🐍
+- PHP 🐘
+- SQL 🗄️
+- Git & GitHub 🐙
+
+📊 Interested in Data Analytics, AI, Automation, and Back-end Development.
+
+🚀 Building projects, solving problems, and continuously improving my skills.
+
+🎯 **Goal:** Become a Data Scientist / AI Engineer and contribute to impactful technology solutions.
